@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "hands-on for creation of rest api",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmochama/RestAPIdemo.git"
+  },
+  "author": "joshua mochama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmochama/RestAPIdemo/issues"
+  },
+  "homepage": "https://github.com/jmochama/RestAPIdemo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.3.0"
+  }
+}
